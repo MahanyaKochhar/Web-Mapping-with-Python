@@ -12,3 +12,6 @@ Here's a map sample created and viewed on the browser:
 
 ![Screenshot (72)](https://user-images.githubusercontent.com/72685315/152533919-924f5f52-4756-478f-806b-685269925b83.png)
 
+![Screenshot (73)](https://user-images.githubusercontent.com/72685315/152534103-55422cfe-d385-4871-ad9b-e244b36e04e0.png)
+
+
