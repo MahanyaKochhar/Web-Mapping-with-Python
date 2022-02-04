@@ -10,4 +10,5 @@ Here's a map sample created and viewed on the browser:
 
 ![Screenshot (71)](https://user-images.githubusercontent.com/72685315/152533679-5063afca-32e1-4dbc-8a56-867ee6c5bb6f.png)
 
-![image](https://user-images.githubusercontent.com/72685315/152533831-e2f8c800-e404-4d52-9d2c-2fdcb844dce5.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/72685315/152533919-924f5f52-4756-478f-806b-685269925b83.png)
+
