@@ -4,3 +4,10 @@ Finally, a HTML map is created with a minimap and all of our layers mentioned ab
 
 
 Here's a map sample created and viewed on the browser:
+
+
+![Screenshot (70)](https://user-images.githubusercontent.com/72685315/152533464-04833b43-cb87-4bb6-860d-371f1a81371d.png)
+
+![Screenshot (71)](https://user-images.githubusercontent.com/72685315/152533679-5063afca-32e1-4dbc-8a56-867ee6c5bb6f.png)
+
+![image](https://user-images.githubusercontent.com/72685315/152533831-e2f8c800-e404-4d52-9d2c-2fdcb844dce5.png)
